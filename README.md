@@ -21,4 +21,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 3) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://SATYAJIT5007.github.io/Sorting_Visualizer_Master/
+Take a look at live version: https://satyajit5007.github.io/Sorting_Visualizer_Master/
